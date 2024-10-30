@@ -2,8 +2,8 @@ key: data
 
 foo:
   animals:
-    breed: corgi
+    breed: mouse
 
-  feature/bar:
-    test1: dog
-    tet2: kat
+##  feature/bar:
+##    test1: dog
+##    test2: kat
